@@ -38,7 +38,7 @@ def list_of_directors(source)
   i += 1
   end
   
-  
+  return directors_names
 end
 
 def total_gross(source)
