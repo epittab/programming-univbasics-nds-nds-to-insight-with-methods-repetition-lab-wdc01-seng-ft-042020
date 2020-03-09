@@ -58,7 +58,7 @@ def total_gross(source)
   
   i = 0 
   
-  while (i < ) do
+  while (i < directors_list.length) do
     
     
     i += 1
