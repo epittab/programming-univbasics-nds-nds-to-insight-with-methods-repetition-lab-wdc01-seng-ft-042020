@@ -54,11 +54,11 @@ def total_gross(source)
   total = 0 
   
   directors_hash = directors_totals(source)
-  list_of_directors();
+  directors_list = list_of_directors(source);
   
   i = 0 
   
-  while () do
+  while (i < ) do
     
     
     i += 1
