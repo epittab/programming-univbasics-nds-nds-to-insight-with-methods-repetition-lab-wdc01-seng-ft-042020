@@ -56,6 +56,14 @@ def total_gross(source)
   directors_hash = directors_totals(source)
   list_of_directors();
   
+  i = 0 
+  
+  while () do
+    
+    
+    i += 1
+  end
+  
   return total
   
 end
